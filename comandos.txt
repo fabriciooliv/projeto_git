@@ -9,3 +9,5 @@ code.
 git config user.name "configurar nome"
 
 git config user.email " configurar e-mail"
+
+git merge
