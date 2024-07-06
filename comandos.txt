@@ -9,3 +9,13 @@ code.
 git config user.name "configurar nome"
 
 git config user.email " configurar e-mail"
+
+git branch "Nome da Nova Branch" - Cria uma nova branch
+
+git branch - mostra quais branchs tem e qual esta *;
+
+git checkout - muda para a outra branch
+
+git checkout b - outra branch
+
+git log 
