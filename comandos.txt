@@ -1,0 +1,11 @@
+git init "iniciar o projeto no git bash ou terminal usado"
+
+git add -A "Adicionar arquivos para o commit"
+
+git commit -m "executar o commit"
+
+code. 
+
+git config user.name "configurar nome"
+
+git config user.email " configurar e-mail"
